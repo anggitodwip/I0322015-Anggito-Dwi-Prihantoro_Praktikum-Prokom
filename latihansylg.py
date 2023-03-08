@@ -1,0 +1,1 @@
+print("\nTOLONG SAYA\n")
