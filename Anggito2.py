@@ -6,5 +6,5 @@ print("""
                 || 
                 || 
                 \/ 
-              """,a.strftime("%H:%M:%S"))
+              """,a.strftime("%H:%M"))
 
